@@ -1,5 +1,5 @@
 # Game of Life
-This is an implementation of Conway's Game of Life using React. The Game of Life is a cellular automaton that simulates the evolution of a colony of cells over time.
+This is a simple implementation of Conway's Game of Life, a cellular automaton simulation that simulates the life and death of cells on a grid.
 
 ## How to Play
 The initial state of the colony is a grid of cells, where each cell can be either "alive" (light gray) or "dead" (no color).
@@ -19,9 +19,9 @@ The grid is rendered using a nested loop that creates a number of div elements, 
 The produce function from the immer library is used to create a new grid state that is based on the previous state, allowing for immutability while still allowing for easy modifications.
 
 ## To run the game
-Clone the repository to your local machine
-Navigate to the project directory and run npm install
-Once the dependencies are installed, run npm start
-The game will open in your browser on http://localhost:3000/
+1. Clone the repository to your local machine
+2. Navigate to the project directory and run `npm install`
+3. Once the dependencies are installed, run `npm start`
+4. The game will open in your browser on http://localhost:3000/
 
 ## Have fun!
