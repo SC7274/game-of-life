@@ -1,4 +1,5 @@
 The Game of Life project is a simulation of a cellular automaton created by John Horton Conway. It consists of a grid of cells, where each cell can be either "alive" or "dead." The state of the cells changes over time based on a set of rules that determine how the cells interact with each other. 
+
 In this project, the grid is represented by a 2-dimensional array, and the state of the cells is determined by the values in the array. The user can interact with the grid by clicking on cells, which toggle the state of that cell from "alive" to "dead" or vice versa. The user can also start and stop the simulation, which automatically updates the state of the cells based on the rules of the Game of Life. The project is built using React, a JavaScript library for building user interfaces, and it uses functional components and hooks to manage the state of the grid and the simulation.
 
 
