@@ -1,7 +1,6 @@
 # Game of Life
 This is a simple implementation of Conway's Game of Life, a cellular automaton simulation that simulates the life and death of cells on a grid.  
-![]
-(https://github.com/SC7274/game-of-life/blob/master/demo.gif)
+![](https://github.com/SC7274/game-of-life/blob/master/demo.gif)
 
 
 ## How to Play
